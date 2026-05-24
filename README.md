@@ -4,11 +4,11 @@
 
 ## 访问地址（可回看当天内容）
 
-精简分组优化地址：
+电视直播地址：
 ```
 https://raw.githubusercontent.com/zhanggaozhong/TV-iptv/refs/heads/main/dianshitv.txt
 ```
-国内已加速-精简分组优化地址：
+国内已加速地址：
 ```
 https://gh-proxy.org/https://raw.githubusercontent.com/zhanggaozhong/TV-iptv/refs/heads/main/dianshitv.txt
 ```
