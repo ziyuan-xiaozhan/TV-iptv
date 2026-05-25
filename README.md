@@ -23,6 +23,26 @@ https://raw.githubusercontent.com/zhanggaozhong/TV-iptv/refs/heads/main/iptv.txt
 
 ---
 
+## 赞助支持
+如果你觉得这个项目对你有帮助，可以请我喝杯咖啡 ☕️
+
+<p>
+  <a href="https://你的支付宝收款链接" target="_blank">
+    <img src="https://img.shields.io/badge/支付宝-赞赏-blue?style=flat-square&logo=alipay" alt="支付宝赞赏">
+  </a>
+  &nbsp;
+  <a href="https://你的微信收款码图片链接" target="_blank">
+    <img src="https://img.shields.io/badge/微信-赞赏-green?style=flat-square&logo=wechat" alt="微信赞赏">
+  </a>
+</p>
+
+或者直接扫码：
+| 支付宝 | 微信 |
+| :---: | :---: |
+| ![支付宝收款码](你的支付宝二维码图片地址) | ![微信收款码](你的微信二维码图片地址) |
+
+---
+
 # 免责声明
 
 > [!IMPORTANT]
