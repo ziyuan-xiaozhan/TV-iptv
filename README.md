@@ -5,9 +5,14 @@
 ## 访问地址（可回看当天内容）
 
 
-国内观看已加速电视直播地址：
+国内观看加速地址：
 ```
 https://gh-proxy.org/https://raw.githubusercontent.com/zhanggaozhong/TV-iptv/refs/heads/main/iptv.txt
+```
+
+自定义域地址：
+```
+http://tv.chinas.cyou/iptv.txt
 ```
 
 电视直播地址：
