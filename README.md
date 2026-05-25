@@ -10,7 +10,7 @@
 https://gh-proxy.org/https://raw.githubusercontent.com/zhanggaozhong/TV-iptv/refs/heads/main/iptv.txt
 ```
 
-自定义域地址：
+自定义域名地址：
 ```
 http://tv.chinas.cyou/iptv.txt
 ```
